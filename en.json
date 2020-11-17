@@ -1,0 +1,13 @@
+{
+    "firstName": "Alex",
+    "lastName": "Coury",
+    "interests": {
+        "interestOne": "Blockchain",
+        "interestTwo": "Dogs",
+        "interestThree": "Going hiking in nature.",
+        "interestFour": "394221"
+    },
+    "phoneNumbers": [
+        { "type": "home", "number": "7383627627" }
+    ]
+}
